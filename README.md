@@ -3,35 +3,36 @@
 
 ### 一， Pytorch🔥  or TensorFlow2 🍎 
 
-先说结论:
+Let me start with the conclusion:
 
-**如果是工程师，应该优先选TensorFlow2.**
+**If you are an engineer, you should choose TensorFlow2 first.**
 
-**如果是学生或者研究人员，应该优先选择Pytorch.**
+**If you are a student or researcher, Pytorch should be preferred.**
 
-**如果时间足够，最好TensorFlow2和Pytorch都要学习掌握。**
-
-
-理由如下：
-
-* 1，**在工业界最重要的是模型落地，目前国内的大部分互联网企业只支持TensorFlow模型的在线部署，不支持Pytorch。** 并且工业界更加注重的是模型的高可用性，许多时候使用的都是成熟的模型架构，调试需求并不大。
+**If you have enough time, it is best to learn and master TensorFlow2 and Pytorch. **
 
 
-* 2，**研究人员最重要的是快速迭代发表文章，需要尝试一些较新的模型架构。而Pytorch在易用性上相比TensorFlow2有一些优势，更加方便调试。** 并且在2019年以来在学术界占领了大半壁江山，能够找到的相应最新研究成果更多。
+The reasons are as follows:
 
 
-* 3，TensorFlow2和Pytorch实际上整体风格已经非常相似了，学会了其中一个，学习另外一个将比较容易。两种框架都掌握的话，能够参考的开源模型案例更多，并且可以方便地在两种框架之间切换。
+*1, **The most important thing in the industry is model landing. At present, most domestic Internet companies only support the online deployment of TensorFlow models, not Pytorch. ** And the industry pays more attention to the high availability of models. Many times, mature model architectures are used, and the need for debugging is not large.
 
 
-本书的TensorFlow镜像教程：
+*2, **The most important thing for researchers is to publish articles quickly iteratively, and they need to try some newer model architectures. Pytorch has some advantages over TensorFlow2 in terms of ease of use and is more convenient for debugging. ** And since 2019, it has occupied more than half of the academic world, and there are more corresponding latest research results that can be found.
 
-#### 🍊《30天吃掉那只TensorFlow2》：https://github.com/lyhue1991/eat_tensorflow2_in_30_days 
+
+*3, TensorFlow2 and Pytorch actually have very similar overall styles. After learning one of them, it will be easier to learn the other. If you master both frameworks, you can refer to more open source model cases, and you can easily switch between the two frameworks.
+
+TensorFlow mirroring tutorial for this book：
+
+#### 🍊《30 TensorFlow2》：https://github.com/lyhue1991/eat_tensorflow2_in_30_days 
 
 ```python
 
 ```
+### Second, this book is for readers 👼
 
-### 二，本书📖面向读者 👼
+
 
 
 **本书假定读者有一定的机器学习和深度学习基础，使用过Keras或TensorFlow或Pytorch搭建训练过简单的模型。**
